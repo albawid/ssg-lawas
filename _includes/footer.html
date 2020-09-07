@@ -10,7 +10,7 @@
   <div class="d-flex justify-content-between align-items-center">
     <div class="footer-left">
       <p class="mb-0">
-        © {{ 'now' | date: "%Y" }}
+        Copyrights © {{ 'now' | date: "%Y" }}
         <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>.
         {% if site.data.rights.brief %}
         <span data-toggle="tooltip" data-placement="top"
@@ -19,13 +19,22 @@
       </p>
     </div>
 
+    <div class="footer-center">
+      <p class="mb-0">
+        Hosted
+        on
+        <a href="https://pages.github.com/">Github Pages</a>,
+        Source Code is available on
+        <a href="https://github.com/albawid/albawid.github.io">Github</a>.
+      </p>
+    </div>
+
     <div class="footer-right">
       <p class="mb-0">
         Powered by
         <a href="https://jekyllrb.com" target="_blank">Jekyll</a>
-        with
-        <a href="https://github.com/cotes2020/jekyll-theme-chirpy/">Chirpy</a>
-        theme.
+        and
+        <a href="https://github.com/cotes2020/jekyll-theme-chirpy" target="_blank">Jekyll-Chirpy</a>
       </p>
     </div>
 

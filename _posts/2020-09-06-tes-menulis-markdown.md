@@ -21,18 +21,18 @@ Kategori diatas bisa berubah sesuai dengan artikel yang dibahas
 # Uji Coba Syntax Highlighting
 ---
 
-### Info Istilah
+## Info Istilah
 
 1. **$** : artinya `user`
 2. **#** : artinya `root`
 
-### Console
+## Console
 
 ```console
 ini adalah syntax untuk code biasa
 ```
 
-### Terminal
+## Terminal
 
 ```terminal
 $ sudo pacman -Syyuw
@@ -73,7 +73,7 @@ Total Download Size:  208.74 MiB
 :: Proceed with download? [Y/n]
 ```
 
-### Shell
+## Shell
 
 ```shell
 if [ $? -ne 0 ]; then
@@ -82,7 +82,7 @@ if [ $? -ne 0 ]; then
 fi;
 ```
 
-### HTML
+## HTML
 
 ```html
 <div class="sidenav">
@@ -99,7 +99,7 @@ fi;
 </div>
 ```
 
-### HTML (dengan scroll horizontal)
+## HTML (dengan scroll horizontal)
 
 ```html
 <div class="panel-group">
@@ -113,10 +113,10 @@ fi;
 </div>
 ```
 
-### Kesimpulan
+# Kesimpulan
 ---
 
-Nyatanya menulis artikel menggunakan format `markdown` `contoh-file.md`, tidaklah sulit jika dibandingkan menulis dengan format `.xml` atau bahkan `html` itu sendiri, meskipun user yang menulis termsuk *masih baru* sudah tersedia official cheat sheet atau panduan yang bisa kalian liat [disini](https://www.markdownguide.org/cheat-sheet/)
+Nyatanya menulis artikel menggunakan format `markdown` `contoh-file.md`, tidaklah sulit jika dibandingkan menulis dalam format `.xml` atau bahkan `html` itu sendiri, meskipun user yang menulis termsuk *masih baru*, dihalaman official Markdown sudah di sediakan `CheatSheet` atau panduan yang bisa kalian liat [disini](https://www.markdownguide.org/cheat-sheet/).
 
 Sebagai contoh saya tunjukkan workflow saat menulis markdown.
-![contoh-md](/assets/img/pic/contoh-md.png)
+![contoh-md](https://res.cloudinary.com/albawid-github-io/image/upload/v1599479455/Tes-menulis-markdown/contoh-md_st5ne5.png)
