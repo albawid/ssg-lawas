@@ -118,5 +118,5 @@ fi;
 
 Nyatanya menulis artikel menggunakan format `markdown` `contoh-file.md`, tidaklah sulit jika dibandingkan menulis dalam format `.xml` atau bahkan `html` itu sendiri, meskipun user yang menulis termsuk *masih baru*, dihalaman official Markdown sudah di sediakan `CheatSheet` atau panduan yang bisa kalian liat [disini](https://www.markdownguide.org/cheat-sheet/).
 
-Sebagai contoh saya tunjukkan workflow saat menulis markdown.
 ![contoh-md](https://res.cloudinary.com/albawid-github-io/image/upload/v1599479455/Tes-menulis-markdown/contoh-md_st5ne5.png)
+_Workflow saat menulis markdown_
