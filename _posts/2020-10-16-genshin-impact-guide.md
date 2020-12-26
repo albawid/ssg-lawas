@@ -45,34 +45,22 @@ Untuk **Judul** di post ini hanya **gimmick** belaka, aslinya cuma sekedar catat
 
 ## Image Cheat Sheet
 Gambar 1:
-
 ![gambar_1](https://res.cloudinary.com/albawid-github-io/image/upload/v1603096863/Genshin-impact/121704460_3527168424014847_2765904505941977737_o_lmly4g.jpg)
-_Fatui Skirmisher Shield Weakness_
 
 Gambar 2:
-
 ![gambar_2](https://res.cloudinary.com/albawid-github-io/image/upload/v1603096657/Genshin-impact/Exp-farm-cheatsheet_hygzvo.jpg)
-_Exp Farm Cheat Sheet_
 
 Gambar 3:
-
 ![gambar_3](https://res.cloudinary.com/albawid-github-io/image/upload/v1603096657/Genshin-impact/Daily-task-list_kmoane.jpg)
-_Daily Task List_
 
 Gambar 4:
-
 ![gambar_4](https://res.cloudinary.com/albawid-github-io/image/upload/v1603096657/Genshin-impact/talent-books_sw04bz.jpg)
-_Talent Book_
 
 Gambar 5:
-
 ![gambar_5](https://res.cloudinary.com/albawid-github-io/image/upload/v1603096863/Genshin-impact/121575868_3527168530681503_6434617885977704474_o_ydr0gn.jpg)
-_Character Ascend Material_
 
 Gambar 6:
-
 ![gambar_6](https://res.cloudinary.com/albawid-github-io/image/upload/v1603096657/Genshin-impact/chara-ascend_yga6sx.jpg)
-_Character Ascend Location_
 
 ## Reference
 1. [Genshin Impact Fandom/Wiki](https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki)
